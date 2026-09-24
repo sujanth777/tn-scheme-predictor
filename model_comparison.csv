@@ -1,0 +1,4 @@
+Model,Exact Match Accuracy,F1 (micro),F1 (macro)
+Random Forest (balanced),0.996,0.999,0.995
+Logistic Regression,0.783,0.929,0.847
+XGBoost,0.993,0.998,0.997
